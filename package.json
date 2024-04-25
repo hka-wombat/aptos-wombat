@@ -1,0 +1,14 @@
+{
+  "name": "aptos-wombat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hka-wombat/aptos-wombat.git",
+  "author": "hka-wombat <hoang@wombat.exchange>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@aptos-labs/ts-sdk": "^1.13.1"
+  }
+}
